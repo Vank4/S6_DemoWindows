@@ -1,0 +1,7 @@
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\bin\Debug\S6_DemoWindows.exe.config
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\bin\Debug\S6_DemoWindows.exe
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\bin\Debug\S6_DemoWindows.pdb
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\obj\Debug\S6_DemoWindows.csproj.AssemblyReference.cache
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\obj\Debug\S6_DemoWindows.csproj.CoreCompileInputs.cache
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\obj\Debug\S6_DemoWindows.exe
+D:\hoccode\HocTruong\S6_DemoWindows\S6_DemoWindows\obj\Debug\S6_DemoWindows.pdb
